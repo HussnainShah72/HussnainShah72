@@ -46,5 +46,5 @@ I am a passionate developer with a diverse skill set ranging from building scala
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HussnainShah72.HussnainShah72" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HussnainShah72.profile-v1" alt="visitor badge"/>
 </p>
